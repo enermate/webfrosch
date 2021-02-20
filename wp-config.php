@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'em_1610961940' );
+define( 'DB_NAME', 'webfrosch_1612607756' );
 
 /** MySQL database username */
-define( 'DB_USER', 'em_1610961940' );
+define( 'DB_USER', 'webfrosch_1612607756' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '5IrVRN1Ogoe0KY7oZcypDXhfPdazneXXPuQdDQKU8Yyj2rrxBxRF4' );
+define( 'DB_PASSWORD', '+bT_Vq+0Loo:Pj:p980tYIaILiFhjadF' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
